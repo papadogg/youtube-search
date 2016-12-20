@@ -1,0 +1,35 @@
+html {
+    overflow-y: scroll;
+}
+
+.search-bar {
+  margin: 20px;
+  text-align: center;
+}
+
+.search-bar input {
+  width: 75%;
+}
+
+.video-item img {
+  max-width: 64px;
+}
+
+.video-detail{
+  padding: 30px;
+}
+
+.list-group-item {
+  cursor: pointer;
+}
+
+.list-group-item:hover {
+  background-color: #eee;
+}
+.video-header{
+    margin-top: 10px;
+}
+.description{
+    margin-top: 10px;
+}
+
